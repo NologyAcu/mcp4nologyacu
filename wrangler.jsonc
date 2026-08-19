@@ -28,9 +28,9 @@
 	// Acumatica instance configuration. Edit these for your deployment
 	// (or leave the placeholders and override via the dashboard after deploy).
 	"vars": {
-		"ACUMATICA_URL": "https://erp.nology.co.za/Acu",
+		"ACUMATICA_URL": "https://erp.nology.co.za/AcuProto/",
 		"ACUMATICA_TENANT": "Nology (Pty) Ltd",
-		"ACUMATICA_ENDPOINT_VERSION": "25.200.024",
+		"ACUMATICA_ENDPOINT_VERSION": "25.201.0213",
 		"ACUMATICA_ENDPOINT_NAME": "Default",
 		"ACUMATICA_MAX_RECORDS": "1000",
 		"ACUMATICA_CANARY_GI": "MCPAccess"
